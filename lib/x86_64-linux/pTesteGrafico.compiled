@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1540814642"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/franz/Documentos/001_PROGRAMAÇÃO/Lazarus/pTesteGráfico/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.8/components/tachart/lib/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.8/components/ideintf/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.8/components/lazcontrols/lib/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.8/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/2.0.8/lcl/units/x86_64-linux -Fu/usr/share/lazarus/2.0.8/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/2.0.8/packager/units/x86_64-linux -Fu/home/franz/Documentos/001_PROGRAMAÇÃO/Lazarus/pTesteGráfico/ -FU/home/franz/Documentos/001_PROGRAMAÇÃO/Lazarus/pTesteGráfico/lib/x86_64-linux/ -FE/home/franz/Documentos/001_PROGRAMAÇÃO/Lazarus/pTesteGráfico/ -o/home/franz/Documentos/001_PROGRAMAÇÃO/Lazarus/pTesteGráfico/pTesteGrafico -dLCL -dLCLgtk2 pTesteGrafico.lpr"/>
+</CONFIG>
